@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=calendar_buttons.py
+Comment=Control calendar with buttons
+NoDisplay=false
+Exec=/usr/bin/python3.4 /home/pi/switch.py
+NotShowIn=GNOME;KDE;XFCE;
+Name[en_US]=calendar_buttons.py
