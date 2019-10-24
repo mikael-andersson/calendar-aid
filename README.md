@@ -12,7 +12,7 @@ The calendar was quite appreciated by my father, apart from when the calendar st
 
 
 ## Hardware
-* [Rasberrry Pi 1 Model A](https://en.wikipedia.org/wiki/Raspberry_Pi#Model_A)
+* [Rasberrry Pi 1 Model B](https://en.wikipedia.org/wiki/Raspberry_Pi#Model_B)
 * USB charger to power the Raspberry Pi (spec: 5 VDC and 850 mA)
 * 17 inch Dell screen with a DVI-HDMI adapter
 * Custom made switch panel with three tactile button switches (see images below)
